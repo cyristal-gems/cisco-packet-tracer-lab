@@ -25,7 +25,9 @@ This project was completed as part of a cybersecurity training fellowship. The g
 
 ### 🖼️ Topology Diagram
 
+<img width="1366" height="400" alt="469888402-dca313b7-f8e1-4545-bbd3-426d963d6146" src="https://github.com/user-attachments/assets/9f252333-3baf-439a-8fa2-095659f36675" />
 
+---
 
 ## 🧰 Devices Used
 
