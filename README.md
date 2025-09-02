@@ -25,7 +25,7 @@ This project was completed as part of a cybersecurity training fellowship. The g
 
 ### 🖼️ Topology Diagram
 
-<img width="1366" height="400" alt="PC IP Setting" src="https://github.com/user-attachments/assets/dca313b7-f8e1-4545-bbd3-426d963d6146" />
+
 
 ## 🧰 Devices Used
 
